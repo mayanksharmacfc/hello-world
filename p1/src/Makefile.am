@@ -1,3 +1,3 @@
 bin_PROGRAMS=a.out
-a_out_SOURCES=p1.c
+a_out_SOURCES=wildcard1.cpp
 
